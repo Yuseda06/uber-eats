@@ -1,5 +1,5 @@
-import { View, Text, Image, ScrollView } from "react-native";
 import React from "react";
+import { View, Text, Image, ScrollView } from "react-native";
 
 const items = [
   {
